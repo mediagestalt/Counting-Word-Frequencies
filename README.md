@@ -8,5 +8,5 @@ Due to file size restrictions, only a portion of the corpus is available in this
 The missing data consists not of new files, but the same files arranged differently, representing the 39th through the 41st sittings of Parliament.
 Visit the above webpage for the complete analysis.
 
-This repo can also be viewed at: http://nbviewer.ipython.org/github/mediagestalt/Counting-Word-Frequencies.
+This repo can also be viewed in iPython notebook format at: http://nbviewer.ipython.org/github/mediagestalt/Counting-Word-Frequencies.
 Download the directory and explore the data in your own way.
