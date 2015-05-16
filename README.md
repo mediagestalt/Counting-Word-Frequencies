@@ -1,5 +1,5 @@
 # Counting-Word-Frequencies
-iPython notebook that counts word frequencies for documents in a multi-file directory. The complete version is found here: http://mediagestalt.com/CountingWordFrequencies.html
+iPython notebook that counts word frequencies for documents in a multi-file directory. The complete version is found here: http://mediagestalt.com/thesis/CountingWordFrequencies.html
 
 This repo presents an abridged sample of text analysis using Python.
 The data is from the Canadian House of Commons Parliamentary debates, published as Hansard.
